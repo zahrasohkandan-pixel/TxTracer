@@ -1,4 +1,4 @@
-# TxTracer
+.# TxTracer
 
 TxTracer is a web application designed for tracing and analyzing transactions on the TON (The Open Network) blockchain.
 It provides developers and users with tools to visualize and understand transaction flows, inspect contract states, and
